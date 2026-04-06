@@ -1,3 +1,8 @@
 title: MySQL 学习笔记
-description: 我的 MySQL 学习笔记
-theme: jekyll-theme-minimal
+description: 我的 Obsidian MySQL 笔记
+theme: just-the-docs
+color_scheme: dark  # 强制暗黑模式
+search_enabled: true
+heading_anchors: true
+# 自动显示文章大纲（关键！）
+toc: true
